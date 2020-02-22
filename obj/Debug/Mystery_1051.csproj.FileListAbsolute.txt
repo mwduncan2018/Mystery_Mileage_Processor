@@ -1,0 +1,9 @@
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\bin\Debug\Mystery_1051.exe.config
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\bin\Debug\Mystery_1051.exe
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\bin\Debug\Mystery_1051.pdb
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\bin\Debug\Newtonsoft.Json.dll
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\bin\Debug\Newtonsoft.Json.xml
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\obj\Debug\Mystery_1051.csproj.CoreCompileInputs.cache
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\obj\Debug\Mystery_1051.exe
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\obj\Debug\Mystery_1051.pdb
+C:\Users\7of9\Documents\Visual Studio 2017\Projects\Mystery_1051\Mystery_1051\obj\Debug\Mystery_1051.csprojResolveAssemblyReference.cache
