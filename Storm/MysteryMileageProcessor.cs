@@ -13,8 +13,8 @@ namespace Mystery_1051.Storm
         //2500 max directions per day
         //100 max per second
         //25 max per query
-        //old_GOOGLE_MAPS_API_KEY = "AIzaSyCtymGbsYhtmAYJf6u10iilg6dqHfuV2FE";
-        private string GOOGLE_MAPS_API_KEY = "AIzaSyCG3enzFWG3-JUtAUxJIOxKDDFrxfJVmFA";
+        //old_GOOGLE_MAPS_API_KEY = "hidden";
+        private string GOOGLE_MAPS_API_KEY = "hidden";
         private ISpreadsheetFormat spreadsheet;
 
         private int count = 0;
